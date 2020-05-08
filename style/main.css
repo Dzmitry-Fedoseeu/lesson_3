@@ -1,0 +1,152 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container-1 {
+    width: 1400px;
+    height: 590px;
+    background: #FFFFFF;
+    text-align: center;
+}
+ 
+h1 {
+    padding: 107px 0 0 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color:black;
+}
+
+hr {
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: #FF8B38;
+    margin: 30px auto;
+}
+h4 {
+    color: #86878B;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+footer {
+    margin-top: 80px;
+}
+
+.block {
+    width: 350px;
+    height: 197px;
+    display: inline-block;
+    text-align: center;
+}
+
+.box {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid #FF8B38;
+    margin: 0 auto;
+}
+
+.h2 {
+    margin-top: 29px;
+    font-size: 20px;
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    margin-top: 29px;
+    font-size: 14px;
+    color: #86878B;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.box--light {
+    background: url(../icon/light.jpg) no-repeat center center;
+}
+
+.box--keyboard {
+    background: url(../icon/keyboard.jpg) no-repeat center center;
+}
+
+.box--power {
+    background: url(../icon/power.jpg) no-repeat center center;
+}
+
+.container-2 {
+    width: 1400px;
+    height: 320px;
+    background:url(../icon/city.png) no-repeat center center ;
+    background-color:rgba(0,0,0,.3);
+    text-align: center;
+}
+.h1-cont_2 {
+    padding: 76px 0 0 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.hr-cont_2{
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: #FFFFFF;
+    margin: 26px auto;
+}
+
+.h4-cont_2 {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+button {
+    margin-top: 33px;
+    width: 135px;
+    height: 42px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background: transparent;
+    border: solid #FFFFFF;
+}
+
+.container-3 {
+    width: 1400px;
+    height: 100px;
+    text-align: center;
+    background:black;
+    padding-top: 39px;
+}
+
+.links {
+    margin-left: 541px;
+    width: 317px;
+    height: 23px;
+    background: blanchedalmond;
+
+}
+
+ul {
+    margin: 0;
+}
+
+li{
+    display: inline-block;
+    width: 23px;
+    height: 23px;
+    margin: 0 10px 0 0;
+    
+}
+
+a {
+    width: 23px;
+    height: 23px;
+}
+.h4-cont_3 {
+    margin-top: 15px;
+    font-size: 12px;
+    color: #FFFFFF;
+}
